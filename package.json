@@ -1,0 +1,24 @@
+{
+  "name": "saturn-proxy",
+  "version": "1.0.0",
+  "description": "Saturn Proxy Lmao XD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Greblue",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "cpu-stat": "^2.0.1",
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.1",
+    "kitsu.js": "^2.0.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.2",
+    "quick.db": "^7.1.3",
+    "weather-js": "^2.0.0"
+  }
+}
